@@ -24,7 +24,7 @@ Android has the following additional options:
     AudioToggle.setAudioMode(AudioToggle.RINGTONE);
 
 
-Getting current audio mode and restore (Android only):
+Getting current audio mode (Android only):
 	
 	AudioToggle.getAudioMode(function(audioModeId){
         // backup audioModeId somewhere or do whatever you want
