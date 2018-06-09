@@ -1,0 +1,25 @@
+{
+  "name": "com.github.hasanmirzae.audiotoggle",
+  "version": "1.0.0",
+  "description": "Toggle between speaker and earpiece when playing audio",
+  "cordova": {
+    "id": "com.gitbub.hasanmirzae.audiotoggle",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Hassan Mirzaee",
+  "license": "Apache"
+}
